@@ -13,3 +13,4 @@ I like building things that run in the real world. I'm the founder of **Gate One
 **Tools:** Python · PyTorch · scikit-learn · pandas · NetworkX · Hugging Face · FastAPI · React Native / Expo · Next.js · BLE
 
 Looking for an AI / ML internship in Milan from winter 2026–27.
+[LinkedIn](https://www.linkedin.com/in/ege-aydemir-15383a2b3)
